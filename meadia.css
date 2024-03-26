@@ -1,0 +1,42 @@
+@media screen and (max-width:600px){
+
+
+
+ .head h1{
+    margin-left:65px;
+    padding-left: 40px;
+    margin-right: 40px;
+}
+.ani{
+    margin-left: 65%;
+}
+ .pho a{
+    font-size:large;
+    color:darkorange ;
+    
+ }  
+
+.loc{
+    display: none;
+}
+.pho{
+    margin-top: 0;
+    margin-right:auto;
+    
+}
+/* button{
+    display: flex;
+    float: initial;
+} */
+.you{
+    float: none;
+}
+.fac{
+    float:none;
+}
+.goo{
+    float: none;
+    float: right;
+    margin-right: 0;
+}
+}

@@ -1,0 +1,20 @@
+.ani{
+    animation-name: color;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes color{
+  0%{
+    color: #fff;
+  }
+  25%{
+    color: firebrick;
+  }
+  50%{
+    color: yellowgreen;
+  }
+  80%{
+    color: darkturquoise;
+  }
+
+}
